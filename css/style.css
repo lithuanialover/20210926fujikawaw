@@ -1,0 +1,47 @@
+header {
+  display: flex;
+}
+
+.logo {
+  margin: 20px;
+  color:blue;
+  font-weight: bold;
+  font-size: 20px;
+}
+.menu {
+  margin:0 0 0 auto;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  margin: 10px;
+}
+
+li{
+  margin: 10px;
+  color:blue;
+  font-weight: bold;
+}
+
+.content{
+  margin-top: 600px;
+}
+
+p{
+  font-size: 80px;
+}
+
+.box{
+  width: 1300px;
+  height: 200px;
+  background-color: blue;
+}
+
+
+
+.img {
+  width: 5%;
+  height: 5%;
+  transform: translate(850px, -780px);
+}
